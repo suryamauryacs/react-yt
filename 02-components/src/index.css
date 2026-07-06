@@ -19,3 +19,9 @@ body {
   margin: 20px;
   padding: 20px;
 }
+
+.nav {
+  background-color: rgb(7, 192, 254);
+  padding: 20px;
+  margin: 20px;
+}
