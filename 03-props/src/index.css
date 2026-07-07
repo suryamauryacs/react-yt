@@ -15,14 +15,14 @@ body {
 }
 
 body {
-  background-color: #111;
+  background-color: #f9ec79;
   color: white;
 }
 
 .parent {
   padding: 20px;
   display: flex;
-  align-item: center;
+  /* align-item: center; */
   flex-wrap: wrap;
 }
 
