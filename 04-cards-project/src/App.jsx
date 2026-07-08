@@ -6,7 +6,7 @@ const App = () => {
     <div className='parent'>
       <div className="card">
         <div className="top">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJW-Kq9gfty56z8kGjFSbD8c4qkG3HmSul4stGRc3jig&s=10" alt="30px" />
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJW-Kq9gfty56z8kGjFSbD8c4qkG3HmSul4stGRc3jig&s=10" alt="" />
           <button>Save <Bookmark /></button>
         </div>
         <div className="center">
@@ -20,15 +20,14 @@ const App = () => {
 
         <div className="bottom">
           <div>
-            <div>
-              <h3>$120 /hr</h3>
-              <p>Mumbai, India</p>
-            </div>
-            <button>Apply Now</button>
+            <h3>$120 /hr</h3>
+            <p>Mumbai, India</p>
           </div>
+          <button>Apply Now</button>
         </div>
       </div>
     </div>
+
   )
 }
 
